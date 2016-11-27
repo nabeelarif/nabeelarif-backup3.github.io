@@ -10,7 +10,6 @@ comments: false
 categories:
   - post
 ---
-{% include toc %}
 
 In a hurry to do things fast and meet monster deadlines, developers keep the book of best practices aside and start coding. The result can lead to unexpected behavior in your project along with highly unmanaged code. Start following best practices of coding, with time it will become a habit.
 

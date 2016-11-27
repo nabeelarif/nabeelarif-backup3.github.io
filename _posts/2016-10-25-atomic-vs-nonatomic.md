@@ -9,7 +9,6 @@ comments: true
 categories:
   - post
 ---
-{% include toc %}
 
 The difference between atomic and non atomic properties remained a favourite question for interviewers. Today we will analyse these keywords in detail. These keyword define the characteristics of how these properties will behave once they will be accessed from multiple threads simultaneously.
 
